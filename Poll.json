@@ -1,13 +1,23 @@
- [
-  {
-    "question" : "which is best framework?",
-    "option1": "React",
-    "votes1" : 0,
-    "option2": "Angular",
-    "votes2" : 0,
-    "option3": "Vue",
-    "votes3" : 0,
-    "option4" : "Bootstrap",
-    "votes4" : 0
-  }
-]
+[
+    {
+      "ques": "Which is best framework?",
+      "ans": [
+        {
+          "op": "React",
+          "vote": 2
+        },
+        {
+          "op": "Angular",
+          "vote": 2
+        },
+        {
+          "op": "Vue",
+          "vote": 2
+        },
+        {
+          "op": "Bootstrap",
+          "vote": 2
+        }
+      ]
+    }
+  ]
