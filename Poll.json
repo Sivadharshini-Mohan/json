@@ -1,5 +1,4 @@
-{
-  "poll": [
+ [
   {
     "question" : "which is best framework?",
     "option1": "React",
@@ -9,4 +8,4 @@
     
   }
 ]
-}
+
