@@ -1,0 +1,10 @@
+[
+  {
+    'question' : 'which is best framework?',
+    'option1': 'React',
+    'option2': 'Angular',
+    'option3': 'Vue',
+    'option4' : 'Bootstrap'
+    
+  }
+]
