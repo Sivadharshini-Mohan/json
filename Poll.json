@@ -3,7 +3,7 @@
       "ques": "Which is best framework?",
       "ans": [
         {
-          "op": "act",
+          "op": "React",
           "vote": 0
         },
         {
